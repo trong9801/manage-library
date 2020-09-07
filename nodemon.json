@@ -1,0 +1,6 @@
+{
+    "env":{
+        "JWT_key": "vutrong12345",
+        "MG_pass":"Vutrong1"
+    }
+}
